@@ -98,3 +98,14 @@ form button {
   border-radius: 50%;
   cursor: pointer;
 }
+
+.order-by button{
+  margin-right: 10px;
+  background: var(--primary);
+  color: #fff;
+  border: 0;
+  padding: 4px 8px;
+  border-radius: 6px;
+  font-family: "Poppins";
+  cursor: pointer;
+}
